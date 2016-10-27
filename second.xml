@@ -27,7 +27,8 @@
             android:textColor="#3C3C3C"
             android:text="好友"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:textStyle="bold" />
     </LinearLayout>
 
     <LinearLayout
@@ -50,7 +51,8 @@
             android:textColor="#3C3C3C"
             android:text="聊天"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:textStyle="bold" />
     </LinearLayout>
 
     <LinearLayout
@@ -73,7 +75,8 @@
             android:textColor="#3C3C3C"
             android:text="動態消息"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:textStyle="bold" />
     </LinearLayout>
 
     <LinearLayout
@@ -96,6 +99,7 @@
             android:textColor="#3C3C3C"
             android:text="其他"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:textStyle="bold" />
     </LinearLayout>
 </LinearLayout>
