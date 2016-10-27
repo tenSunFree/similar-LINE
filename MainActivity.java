@@ -1,4 +1,4 @@
-package net.macdidi.similar_LINE;
+package net.macdidi.similar_line;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
